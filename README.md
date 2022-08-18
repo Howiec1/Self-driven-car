@@ -1,2 +1,2 @@
 # Self-driven-car
-This is my first Arduino project. 
+This is my first Arduino School project
